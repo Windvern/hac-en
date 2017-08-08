@@ -1,0 +1,24 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="123456789.fr" resolutions="1x" timestamp="1502200122411">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-gabarit.css" crc="3963343499" ref="login:index"/>
+    <file name="login.css" crc="43222211" ref="login"/>
+    <file name="index.css" crc="260586894" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="login:index"/>
+    <file name="museutils.js" crc="4216313831" ref="login:index"/>
+    <file name="whatinput.js" crc="86476730" ref="login:index"/>
+    <file name="museconfig.js" crc="4177022356" ref="login:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="login:index"/>
+    <file name="webpro.js" crc="4143865194" ref="login"/>
+    <file name="form_check.php" crc="154010282" ref="login"/>
+    <file name="form_throttle.php" crc="266437015" ref="login"/>
+    <file name="form_process.php" crc="512629711" ref="login"/>
+    <file name="form-u220.php" crc="4259403847" ref="login"/>
+    <file name="form-u157.php" crc="4063253467" ref="login"/>
+    <file name="require.js" crc="3951022091" ref="login:index"/>
+  </folder>
+  <file name="login.html" crc="458743336" seo="true" mt="1502200035609" redirect="true"/>
+  <file name="index.html" crc="222915274" seo="true" mt="1502199978541" redirect="true"/>
+</manifest>
