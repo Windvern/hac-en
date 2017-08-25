@@ -1,0 +1,178 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://beta.devbear.org" resolutions="1x" timestamp="1503668853438">
+  <folder name="css">
+    <file name="site_global.css" crc="323582342"/>
+    <file name="master_second-master.css" crc="126045268" ref="index"/>
+    <file name="nomq_preview_master_second-master.css" crc="3824530138" ref="index"/>
+    <file name="master_first-master.css" crc="411826401" ref="study:htmlcss3:htmlcss3-2:discover:member-area:partner:home"/>
+    <file name="nomq_preview_master_first-master.css" crc="4102959742" ref="study:htmlcss3:htmlcss3-2:discover:member-area:partner:home"/>
+    <file name="index.css" crc="4262274991" ref="index"/>
+    <file name="nomq_index.css" crc="3824530138" ref="index"/>
+    <file name="study.css" crc="3819762589" ref="study"/>
+    <file name="nomq_study.css" crc="4191761552" ref="study"/>
+    <file name="htmlcss3.css" crc="4255044278" ref="htmlcss3"/>
+    <file name="nomq_htmlcss3.css" crc="4233741656" ref="htmlcss3"/>
+    <file name="htmlcss3-2.css" crc="496656944" ref="htmlcss3-2"/>
+    <file name="nomq_htmlcss3-2.css" crc="393900700" ref="htmlcss3-2"/>
+    <file name="discover.css" crc="3785928354" ref="discover"/>
+    <file name="nomq_discover.css" crc="3937705382" ref="discover"/>
+    <file name="login.css" crc="311597357" ref="login"/>
+    <file name="member-area.css" crc="307974914" ref="member-area"/>
+    <file name="nomq_member-area.css" crc="416772575" ref="member-area"/>
+    <file name="partner.css" crc="4112153027" ref="partner"/>
+    <file name="nomq_partner.css" crc="3957827107" ref="partner"/>
+    <file name="home.css" crc="3770967944" ref="home"/>
+    <file name="nomq_home.css" crc="29878379" ref="home"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:study:partner:discover:index:htmlcss3:htmlcss3-2:member-area:login"/>
+    <file name="museutils.js" crc="4216313831" ref="home:study:partner:discover:index:htmlcss3:htmlcss3-2:member-area:login"/>
+    <file name="whatinput.js" crc="86476730" ref="home:study:partner:discover:index:htmlcss3:htmlcss3-2:member-area:login"/>
+    <file name="museconfig.js" crc="4177022356" ref="home:study:partner:discover:index:htmlcss3:htmlcss3-2:member-area:login"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="home:study:partner:discover:htmlcss3:htmlcss3-2:member-area"/>
+    <file name="jquery.watch.js" crc="460461809" ref="home:study:partner:discover:index:htmlcss3:htmlcss3-2:member-area:login"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:study:partner:discover:index:htmlcss3:htmlcss3-2:member-area:login"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="home:study:partner:discover:htmlcss3:htmlcss3-2:member-area"/>
+    <file name="require.js" crc="3951022091" ref="home:study:partner:discover:index:htmlcss3:htmlcss3-2:member-area:login"/>
+    <file name="webpro.js" crc="4143865194" ref="htmlcss3:htmlcss3-2:login"/>
+    <file name="form_check.php" crc="154010282" ref="htmlcss3"/>
+    <file name="form_throttle.php" crc="266437015" ref="htmlcss3"/>
+    <file name="form_process.php" crc="512629711" ref="htmlcss3"/>
+    <file name="form-u20627.php" crc="364418032" ref="htmlcss3"/>
+    <file name="form-u22034.php" crc="89854677" ref="htmlcss3-2"/>
+    <file name="form-u29639.php" crc="48085378" ref="login"/>
+    <file name="form-u29718.php" crc="4014945170" ref="login"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="home:study:partner:discover:htmlcss3:htmlcss3-2:member-area"/>
+    <file name="devbear logo transparent.png" crc="4195652616" seo="true" ref="home:study:partner:discover:htmlcss3:htmlcss3-2:member-area">
+      <caption webpage="partner" alt=""/>
+      <caption webpage="partner" alt=""/>
+      <caption webpage="partner" alt=""/>
+      <caption webpage="member-area" alt=""/>
+      <caption webpage="member-area" alt=""/>
+      <caption webpage="member-area" alt=""/>
+      <caption webpage="htmlcss3-2" alt=""/>
+      <caption webpage="htmlcss3-2" alt=""/>
+      <caption webpage="htmlcss3-2" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="htmlcss3" alt=""/>
+      <caption webpage="htmlcss3" alt=""/>
+      <caption webpage="htmlcss3" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="discover" alt=""/>
+      <caption webpage="discover" alt=""/>
+      <caption webpage="discover" alt=""/>
+    </file>
+    <file name="working.svg" crc="4203511600" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="working_poster_.png" crc="4131438139" ref="home"/>
+    <file name="conference.svg" crc="332291866" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="conference_poster_.png" crc="271041304" ref="home"/>
+    <file name="meeting.svg" crc="202798054" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="meeting_poster_.png" crc="4038211767" ref="home"/>
+    <file name="resume.svg" crc="351368297" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="resume_poster_.png" crc="290219298" ref="home"/>
+    <file name="goal.svg" crc="441161560" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="goal_poster_.png" crc="218208823" ref="home"/>
+    <file name="css-3.png" crc="100740223" seo="true" ref="home:study">
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="php.png" crc="4058885280" seo="true" ref="home:study">
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="html5.png" crc="4280029383" seo="true" ref="home:study">
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="learn-javascript.png" crc="123984498" seo="true" ref="home:study">
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="icons8-xbox menu filled-50.png" crc="4204122134" seo="true" ref="home:study:partner:discover:htmlcss3:htmlcss3-2:member-area">
+      <caption webpage="partner" alt=""/>
+      <caption webpage="member-area" alt=""/>
+      <caption webpage="htmlcss3-2" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="htmlcss3" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="discover" alt=""/>
+    </file>
+    <file name="warning.svg" crc="4248372974" seo="true" ref="study:partner:discover:index">
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="study" alt=""/>
+      <caption webpage="partner" alt=""/>
+      <caption webpage="partner" alt=""/>
+      <caption webpage="partner" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="discover" alt=""/>
+      <caption webpage="discover" alt=""/>
+      <caption webpage="discover" alt=""/>
+    </file>
+    <file name="warning_poster_.png" crc="150304550" ref="study"/>
+    <file name="339311.jpg" crc="99965197" seo="true" ref="htmlcss3-2">
+      <caption webpage="htmlcss3-2" alt=""/>
+      <caption webpage="htmlcss3-2" alt=""/>
+      <caption webpage="htmlcss3-2" alt=""/>
+    </file>
+    <file name="capture-crop-u22348.jpg" crc="4185349209" seo="true" ref="htmlcss3-2">
+      <caption webpage="htmlcss3-2" alt=""/>
+    </file>
+    <file name="capture-crop-u223482.jpg" crc="4234108553" seo="true" ref="htmlcss3-2">
+      <caption webpage="htmlcss3-2" alt=""/>
+    </file>
+    <file name="capture-crop-u223483.jpg" crc="340135054" seo="true" ref="htmlcss3-2">
+      <caption webpage="htmlcss3-2" alt=""/>
+    </file>
+  </folder>
+  <file name="home.html" crc="3797143870" seo="true" mt="1503668644557" redirect="true"/>
+  <file name="study.html" crc="282190763" seo="true" mt="1503668644557" redirect="true"/>
+  <file name="partner.html" crc="4184689838" seo="true" mt="1503668644557" redirect="true"/>
+  <file name="discover.html" crc="305988870" seo="true" mt="1503668644557" redirect="true"/>
+  <file name="index.html" crc="4023735435" seo="true" mt="1502235517916" redirect="true"/>
+  <file name="htmlcss3.html" crc="3865649368" seo="true" mt="1503668644557" redirect="true"/>
+  <file name="htmlcss3-2.html" crc="372697340" seo="true" mt="1503668644557" redirect="true"/>
+  <file name="member-area.html" crc="4045011000" seo="true" mt="1503668644557" redirect="true"/>
+  <file name="login.html" crc="4031853238" seo="true" mt="1503668629925" redirect="true"/>
+</manifest>
